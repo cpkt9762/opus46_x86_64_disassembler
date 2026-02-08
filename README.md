@@ -1,4 +1,5 @@
 # ida-llvm-plugin
+# 此仓库改名字是为啦防止被和谐
 <img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/5c274ceb-52e5-4d29-ae64-d58bb9c84d1e" />
 
 does lifting work when it's purely written by ai with coordination by someone who doesn't know what he's doing, but knows something about the lifting jumbo? maybe, and if not, it's just a few prompts away! (and you can always use IDA as an oracle)
